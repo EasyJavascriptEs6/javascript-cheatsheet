@@ -1,6 +1,4 @@
-# javascript-cheatsheet
-best practice cheatsheets in javascript                 
-/* *******************************************************************************************
+           /* *******************************************************************************************
  * GLOBAL OBJECTS > OBJECT
  * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object
  * ******************************************************************************************* */
